@@ -1,6 +1,6 @@
 # askgpt
 
-> You can ask anything to ChatGPT without leaving your terminal
+Ask ChatGPT without leaving your terminal
 
 <img width="1022" alt="Screenshot 2023-03-31 at 01 13 56" src="https://user-images.githubusercontent.com/72242664/228927159-cd626a53-378d-4f72-8fac-e12c6bd088b8.png">
 
