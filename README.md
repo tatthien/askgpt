@@ -23,3 +23,7 @@ export OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 go install github.com/tatthien/cmdgpt@latest
 ```
+
+## More CLI tools using AI
+
+- [cmdgpt](https://github.com/tatthien/cmdgpt) - CLI tool that using ChatGPT to generate linux commands from your natural language
