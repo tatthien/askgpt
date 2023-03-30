@@ -6,7 +6,7 @@ Ask ChatGPT without leaving your terminal
 
 No thing special here! It's the OpenAI's Chat Completion that supports context.
 
-The example code is taken from https://github.com/sashabaranov/go-openai with a litle bit tweak in displaying the messages in a beautiful format - thanks to [glamour](https://github.com/charmbracelet/glamour).
+The code is taken from https://github.com/sashabaranov/go-openai examples with a litle bit tweak in displaying the messages in a beautiful format - thanks to [glamour](https://github.com/charmbracelet/glamour).
 
 ## Prerequisites
 
